@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I am currently studying at the University of Life Sciences, pursuing a master's degree in Informatics and Data Engineering. I completed my engineering studies with distinction, earning the title of Engineer in Applied Informatics with an excellent grade on my diploma. 🎓✨  
+I am currently studying for a degree in Computer Science and Data Engineering at the University of Life Sciences.
+I completed my engineering degree with honours and obtained a bachelor's degree in applied computer science with a perfect degree. 🎓✨    
 
-Currently, I work as a software specialist 💻, while also volunteering at the Local Committee for the Protection of Children's Rights in Poznań. Additionally, I support legal examinations by troubleshooting technical issues related to candidates' computers or network connectivity. 🛠️⚖️  
+I currently work as a software specialist 💻 and also volunteer at the Local Committee for the Protection of Children's Rights in Poznań. I also support legal exams by troubleshooting technical problems related to candidates' computers or network connections. 🛠️⚖️ 
 
-Outside of work and study, I regularly go to the gym to maintain my physical fitness. 🏋️‍♂️ For me, the gym is not just a place to stay in shape but also a way to relax. Moreover, I am a passionate video game enthusiast. 🎮 Games are not only a great source of entertainment for me but also a way to develop my analytical skills and the ability to make quick decisions. 🧠⚡
+Outside of work and study, I regularly go to the gym to keep in shape. 🏋️‍♂️ For me, the gym is not only a place to stay in shape, but also a place to relax. I am also a passionate video game enthusiast. 🎮 Games are not only a great source of entertainment for me, but also a way to develop my analytical skills and ability to make quick decisions. 🧠⚡
 
 ## Technologies I use 💻🛠️
 <div>
