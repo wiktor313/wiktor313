@@ -9,6 +9,7 @@ Outside of work and study, I regularly go to the gym to keep in shape. 🏋️�
 
 ## Technologies I use 💻🛠️
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net" alt=".Net" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL" alt="SQL" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="30" height="30"/>
@@ -16,6 +17,4 @@ Outside of work and study, I regularly go to the gym to keep in shape. 🏋️�
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio 2022" alt="Visual Studio 2022" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net" alt=".Net" width="30" height="30"/>
-    
 </div>
