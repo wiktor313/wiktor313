@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I completed a Master's degree in Computer Science and Data Engineering, as well as a Bachelor's degree in Applied Computer Science, at the University of Life Sciences in Poznań.I graduated with honours and received an A grade on my diploma.
-I was also in the top 5% of students across the entire university.🎓✨    
+I completed a Master's degree in Computer Science and Data Engineering, as well as a Bachelor's degree in Applied Computer Science, at the University of Life Sciences in Poznań. I graduated with honours and received an A grade on my diploma.
+<br> I was also in the top 5% of students across the entire university.🎓✨    
 
 I currently work as a junior backend developer 💻 and also volunteer at the Local Committee for the Protection of Children's Rights in Poznań. I also support legal exams by troubleshooting technical problems related to candidates' computers or network connections. 🛠️⚖️ 
 
